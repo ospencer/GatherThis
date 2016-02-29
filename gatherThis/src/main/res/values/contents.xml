@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<string-array name="contents">
+	<item>"Introduction"</item>
+	<item>"1. Game Concepts"</item>
+	<item>"2. Parts of a Card"</item>
+	<item>"3. Card Types"</item>
+	<item>"4. Zones"</item>
+	<item>"5. Turn Structure"</item>
+	<item>"6. Spells, Abilities, and Effects"</item>
+	<item>"7. Additional Rules"</item>
+	<item>"8. Multiplayer Rules"</item>
+	<item>"9. Casual Variants"</item>
+	<item>"Glossary"</item>
+</string-array>
+
+<string-array name="introduction">
+
+	<item>"This document is designed for people who’ve moved beyond the basics of the Magic: The Gathering® game. If you’re a beginning Magic™ player, you’ll probably find these rules intimidating. They’re intended to be the ultimate authority for the game, and you won’t usually need to refer to them except in specific cases or during competitive games."</item>
+
+	<item>"For casual play and most ordinary situations, you’ll find what you need in the Magic: The Gathering basic rulebook. You can download a copy of that rulebook from the Wizards of the Coast® Magic rules website at Wizards.com/Magic/Rules. If you’re sure this is where you want to be, keep reading."</item>
+
+	<item>"This document includes a series of numbered rules followed by a glossary. Many of the numbered rules are divided into subrules, and each separate rule and subrule of the game has its own number. (Note that subrules skip the letters “l” and “o” due to potential confusion with the numbers “1” and “0”; subrule 704.5k is followed by 704.5m, then 704.5n, then 704.5p, for example.)"</item>
+
+	<item>"We at Wizards of the Coast recognize that no matter how detailed the rules, situations will arise in which the interaction of specific cards requires a precise answer. If you have questions, you can get the answers from us at Wizards.com/CustomerService. Additional contact information is on the last page of these rules."</item>
+
+	<item>"In response to play issues and to keep these rules as current as possible, changes may have been made to this document since its publication. See the Wizards of the Coast Magic rules website at Wizards.com/Magic/Rules for the current version of the official rules."</item>
+</string-array>
+
+<string-array name="game_concepts">
+	<item>"100. General"</item>
+	<item>"101. The Magic Golden Rules"</item>
+	<item>"102. Players"</item>
+	<item>"103. Starting the Game"</item>
+	<item>"104. Ending the Game"</item>
+	<item>"105. Colors"</item>
+	<item>"106. Mana"</item>
+	<item>"107. Numbers and Symbols"</item>
+	<item>"108. Cards"</item>
+	<item>"109. Objects"</item>
+	<item>"110. Permanents"</item>
+	<item>"111. Spells"</item>
+	<item>"112. Abilities"</item>
+	<item>"113. Emblems"</item>
+	<item>"114. Targets"</item>
+	<item>"115. Special Actions"</item>
+	<item>"116. Timing and Priority"</item>
+	<item>"117. Costs"</item>
+	<item>"118. Life"</item>
+	<item>"119. Damage"</item>
+	<item>"120. Drawing a Card"</item>
+	<item>"121. Counters"</item>
+</string-array>
+
+<string-array name="parts_of_a_card">
+	<item>"200. General"</item>
+	<item>"201. Name"</item>
+	<item>"202. Mana Cost and Color"</item>
+	<item>"203. Illustration"</item>
+	<item>"204. Color Indicator"</item>
+	<item>"205. Type Line"</item>
+	<item>"206. Expansion Symbol"</item>
+	<item>"207. Text Box"</item>
+	<item>"208. Power/Toughness"</item>
+	<item>"209. Loyalty"</item>
+	<item>"210. Hand Modifier"</item>
+	<item>"211. Life Modifier"</item>
+	<item>"212. Information Below the Text Box"</item>
+</string-array>
+
+<string-array name="card_types">
+	<item>"300. General"</item>
+	<item>"301. Artifacts"</item>
+	<item>"302. Creatures"</item>
+	<item>"303. Enchantments"</item>
+	<item>"304. Instants"</item>
+	<item>"305. Lands"</item>
+	<item>"306. Planeswalkers"</item>
+	<item>"307. Sorceries"</item>
+	<item>"308. Tribals"</item>
+	<item>"309. Planes"</item>
+	<item>"310. Phenomena"</item>
+	<item>"311. Vanguards"</item>
+	<item>"312. Schemes"</item>
+	<item>"313. Conspiracies"</item>
+</string-array>
+
+<string-array name="zones">
+	<item>"400. General"</item>
+	<item>"401. Library"</item>
+	<item>"402. Hand"</item>
+	<item>"403. Battlefield"</item>
+	<item>"404. Graveyard"</item>
+	<item>"405. Stack"</item>
+	<item>"406. Exile"</item>
+	<item>"407. Ante"</item>
+	<item>"408. Command"</item>
+</string-array>
+
+<string-array name="turn_structure">
+	<item>"500. General"</item>
+	<item>"501. Beginning Phase"</item>
+	<item>"502. Untap Step"</item>
+	<item>"503. Upkeep Step"</item>
+	<item>"504. Draw Step"</item>
+	<item>"505. Main Phase"</item>
+	<item>"506. Combat Phase"</item>
+	<item>"507. Beginning of Combat Step"</item>
+	<item>"508. Declare Attackers Step"</item>
+	<item>"509. Declare Blockers Step"</item>
+	<item>"510. Combat Damage Step"</item>
+	<item>"511. End of Combat Step"</item>
+	<item>"512. Ending Phase"</item>
+	<item>"513. End Step"</item>
+	<item>"514. Cleanup Step"</item>
+</string-array>
+
+<string-array name="spells_abilities_and_effects">
+	<item>"600. General"</item>
+	<item>"601. Casting Spells"</item>
+	<item>"602. Activating Activated Abilities"</item>
+	<item>"603. Handling Triggered Abilities"</item>
+	<item>"604. Handling Static Abilities"</item>
+	<item>"605. Mana Abilities"</item>
+	<item>"606. Loyalty Abilities"</item>
+	<item>"607. Linked Abilities"</item>
+	<item>"608. Resolving Spells and Abilities"</item>
+	<item>"609. Effects"</item>
+	<item>"610. One-Shot Effects"</item>
+	<item>"611. Continuous Effects"</item>
+	<item>"612. Text-Changing Effects"</item>
+	<item>"613. Interaction of Continuous Effects"</item>
+	<item>"614. Replacement Effects"</item>
+	<item>"615. Prevention Effects"</item>
+	<item>"616. Interaction of Replacement and/or Prevention Effects"</item>
+</string-array>
+
+<string-array name="additional_rules">
+	<item>"700. General"</item>
+	<item>"701. Keyword Actions"</item>
+	<item>"702. Keyword Abilities"</item>
+	<item>"703. Turn-Based Actions"</item>
+	<item>"704. State-Based Actions"</item>
+	<item>"705. Flipping a Coin"</item>
+	<item>"706. Copying Objects"</item>
+	<item>"707. Face-Down Spells and Permanents"</item>
+	<item>"708. Split Cards"</item>
+	<item>"709. Flip Cards"</item>
+	<item>"710. Leveler Cards"</item>
+	<item>"711. Double-Faced Cards"</item>
+	<item>"712. Controlling Another Player"</item>
+	<item>"713. Ending the Turn"</item>
+	<item>"714. Restarting the Game"</item>
+	<item>"715. Subgames"</item>
+	<item>"716. Taking Shortcuts"</item>
+	<item>"717. Handling Illegal Actions"</item>
+</string-array>
+
+<string-array name="multiplayer_rules">
+	<item>"800. General"</item>
+	<item>"801. Limited Range of Influence Option"</item>
+	<item>"802. Attack Multiple Players Option"</item>
+	<item>"803. Attack Left and Attack Right Options"</item>
+	<item>"804. Deploy Creatures Option"</item>
+	<item>"805. Shared Team Turns Option"</item>
+	<item>"806. Free-for-All Variant"</item>
+	<item>"807. Grand Melee Variant"</item>
+	<item>"808. Team vs. Team Variant"</item>
+	<item>"809. Emperor Variant"</item>
+	<item>"810. Two-Headed Giant Variant"</item>
+	<item>"811. Alternating Teams Variant"</item>
+</string-array>
+
+<string-array name="casual_variants">
+	<item>"900. General"</item>
+	<item>"901. Planechase"</item>
+	<item>"902. Vanguard"</item>
+	<item>"903. Commander"</item>
+	<item>"904. Archenemy"</item>
+	<item>"905. Conspiracy Draft"</item>
+</string-array>
+</resources>
